@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DellPogie! I am a Senior VBA/SQL Developer and I am new to GitHub community.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Java and Kotlin. Please consider this project as my portfolio.
-- 💞️ I’m looking Junior Software Developer roles.
+- 💞️ I’m actively looking for Junior Software Developer roles.
 - 📫 How to reach me thru LinkedIn - www.linkedin.com/in/delio-labaddan
